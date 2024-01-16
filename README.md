@@ -21,9 +21,10 @@
 ### Languages and Tools:
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="PHP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="JAVA" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="PHP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" style="padding-right:15px;" />][webdev]
+[<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="JS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Golang" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" style="padding-right:10px;" />][webdev]
 
