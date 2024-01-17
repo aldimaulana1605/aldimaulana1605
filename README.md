@@ -1,4 +1,4 @@
-# Hi there, I'm Aldi Maulana Bahari - [aldimln.a](https://www.instagram.com/aldimln.a) 👋
+# Hi there, I'm Aldi Maulana Bahari - [@aldimln.a](https://www.instagram.com/aldimln.a) 👋
 ## About me:
 - 🔭 I’m currently Jobless
 - 🌱 I’m currently learning PHP and JAVA
