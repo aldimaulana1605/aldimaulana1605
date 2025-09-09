@@ -9,7 +9,7 @@
 
 ## Education:
 
-#### 1. [Universitas Insan Pembangunan](https://unipem.ac.id) | Student of Sistem Informasi | Tangerang `2021`
+#### 1. [Universitas Insan Pembangunan](https://unipem.ac.id) | Student of Sistem Informasi | Tangerang `2021-2025`
    
  #### 2. [SMAN 4 Kab.Tangerang](https://sman4kabupatentangerang.sch.id) | MIPA | Tangerang `2018-2021`
    
