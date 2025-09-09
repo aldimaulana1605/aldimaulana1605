@@ -15,7 +15,15 @@
    
 
 ## Work Experience:
-#### 1. Null
+#### 1. Intern IT Support at Sinar Mas Land (2025)
+###### -Handle issues related to software, hardware, networks, and other IT devices.
+###### -Provide direct assistance to employees or users regarding computer/laptop, printer, scanner, applications, and other supporting devices.
+###### -Troubleshoot errors in systems, applications, and networks.
+###### -Perform installation of operating systems, applications, and work-related software.
+###### -Set up new devices (PCs, laptops, printers, projectors, etc.) before being used by employees.
+###### -Maintain devices by cleaning, replacing components (e.g., RAM, hard drives, thermal paste for laptops/PCs).
+###### -Record all issues and solutions that have been performed.
+###### -Prepare regular reports on the condition of devices, networks, and upgrade requirements.
 ---
 
 ### Languages and Tools:
